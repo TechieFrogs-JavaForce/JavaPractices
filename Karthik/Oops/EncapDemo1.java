@@ -3,28 +3,28 @@ package Karthik.Oops;
  class EncapDemo {
 
     private int i=100;
-    private String str="karthik";
+    private String stri="karthik";
     private char ch='k';
-    // public String getStr() {
-    //     return str;
-    // }
-    // public void setStr(String str) {
-    //     this.str = str;
-    // }
-    // public char getCh() {
-    //     return ch;
-    // }
-    // public void setCh(char ch) {
-    //     this.ch = ch;
-    // }
-    // public Boolean getB() {
-    //     return b;
-    // }
-    // public void setB(Boolean b) {
-    //     this.b = b;
-    // }
+    public String getStr() {
+        return stri;
+    }
+    public void setStr(String str) {
+        this.stri = str;
+    }
+    public char getCh() {
+        return ch;
+    }
+    public void setCh(char ch) {
+        this.ch = ch;
+    }
+    public Boolean getB() {
+        return b;
+    }
+    public void setB(Boolean b) {
+        this.b = b;
+    }
 
-    // private Boolean b=true;
+    private Boolean b=true;
 
     public int getI(){
         return i;
@@ -36,15 +36,7 @@ package Karthik.Oops;
     }
 
     EncapDemo(){
-
     }
-
-
-
-
-    
-
-    
 }
 public class EncapDemo1{
  public static void main(String args[]){

@@ -73,8 +73,9 @@ public class StringClass {
         System.out.println(s4+45);
         System.out.println(s2.toUpperCase().concat(s3));
 
-        String s5="Hello boys";
+        String s5="Hello boys Hello";
         System.out.println(s5.replaceFirst("Hello", "java"));
+        
        // System.out.println(s5.format());
        //System.out.println(s2.getBytes());
 

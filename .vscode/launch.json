@@ -1,0 +1,791 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SubClass1",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.SubClass1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assign5",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Assign5",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignm4",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Assignm4",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodsAndReturns",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.MethodsAndReturns",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncapDemo1",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.EncapDemo1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Defaultdemo1",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Defaultdemo1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.demo",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch condemo",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.condemo",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assign4",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Assign4",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Publicex",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.Publicex",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constructor",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.Constructor",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assign3",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Assign3",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assign2",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Assign2",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Student",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assign1",
+            "request": "launch",
+            "mainClass": "Karthik.Assignments2.Assign1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consover",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.Consover",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Karthik",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.Karthik",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.main",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classinstant",
+            "request": "launch",
+            "mainClass": "Karthik.Oops.Classinstant",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assesment1",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Assesment1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch homebyte",
+            "request": "launch",
+            "mainClass": "Karthik.scan.homebyte",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Homelong",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Homelong",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch homeshort",
+            "request": "launch",
+            "mainClass": "Karthik.scan.homeshort",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch kk",
+            "request": "launch",
+            "mainClass": "Karthik.scan.kk",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch valid2",
+            "request": "launch",
+            "mainClass": "Karthik.scan.valid2",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Homeivstring",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Homeivstring",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch primenumber",
+            "request": "launch",
+            "mainClass": "Assignments.primenumber",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiplication",
+            "request": "launch",
+            "mainClass": "Assignments.multiplication",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch homefloat",
+            "request": "launch",
+            "mainClass": "Karthik.scan.homefloat",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch homedouble",
+            "request": "launch",
+            "mainClass": "Karthik.scan.homedouble",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inputvalidationint",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Inputvalidationint",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch validatingint",
+            "request": "launch",
+            "mainClass": "Karthik.scan.validatingint",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch ivnextdouble",
+            "request": "launch",
+            "mainClass": "Karthik.scan.ivnextdouble",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ivtryandcatchy",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Ivtryandcatchy",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nextline",
+            "request": "launch",
+            "mainClass": "Karthik.scan.Nextline",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch inputvalidation",
+            "request": "launch",
+            "mainClass": "Karthik.scan.inputvalidation",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch invboolean",
+            "request": "launch",
+            "mainClass": "Karthik.scan.invboolean",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ivtryandcatchy",
+            "request": "launch",
+            "mainClass": "Operators.Ivtryandcatchy",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch inputvalidation",
+            "request": "launch",
+            "mainClass": "Operators.inputvalidation",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch ivnextdouble",
+            "request": "launch",
+            "mainClass": "Operators.ivnextdouble",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scanner1",
+            "request": "launch",
+            "mainClass": "Operators.Scanner1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add",
+            "request": "launch",
+            "mainClass": "Assignments.Add",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Assignments.Factorial",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fullpyramid",
+            "request": "launch",
+            "mainClass": "Assignments.Fullpyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Halfpyramid",
+            "request": "launch",
+            "mainClass": "Assignments.Halfpyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ifevenorodd",
+            "request": "launch",
+            "mainClass": "Assignments.Ifevenorodd",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Large",
+            "request": "launch",
+            "mainClass": "Assignments.Large",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leftpascal",
+            "request": "launch",
+            "mainClass": "Assignments.Leftpascal",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramidsusingalphabets",
+            "request": "launch",
+            "mainClass": "Assignments.Pyramidsusingalphabets",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qr",
+            "request": "launch",
+            "mainClass": "Assignments.Qr",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rightpascals",
+            "request": "launch",
+            "mainClass": "Assignments.Rightpascals",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Assignments.Swap",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vowel",
+            "request": "launch",
+            "mainClass": "Assignments.Vowel",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong",
+            "request": "launch",
+            "mainClass": "Assignments.armstrong",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamondshape",
+            "request": "launch",
+            "mainClass": "Assignments.diamondshape",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch floydstriangle",
+            "request": "launch",
+            "mainClass": "Assignments.floydstriangle",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch halfpyramidusingnum",
+            "request": "launch",
+            "mainClass": "Assignments.halfpyramidusingnum",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch hcf",
+            "request": "launch",
+            "mainClass": "Assignments.hcf",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverhalfpyramid",
+            "request": "launch",
+            "mainClass": "Assignments.inverhalfpyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch invertedfullpyramid",
+            "request": "launch",
+            "mainClass": "Assignments.invertedfullpyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch lcm",
+            "request": "launch",
+            "mainClass": "Assignments.lcm",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "Assignments.palindrome",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch sandglass",
+            "request": "launch",
+            "mainClass": "Assignments.sandglass",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch scan",
+            "request": "launch",
+            "mainClass": "Assignments.scan",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch scannextline",
+            "request": "launch",
+            "mainClass": "Assignments.scannextline",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofnum",
+            "request": "launch",
+            "mainClass": "Assignments.sumofnum",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enchancemultiple",
+            "request": "launch",
+            "mainClass": "Enchancemultiple",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enhancearrow",
+            "request": "launch",
+            "mainClass": "Enhancearrow",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enhanceexp",
+            "request": "launch",
+            "mainClass": "Enhanceexp",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enhancenew",
+            "request": "launch",
+            "mainClass": "Enhancenew",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enhancescope",
+            "request": "launch",
+            "mainClass": "Enhancescope",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enhanceyield",
+            "request": "launch",
+            "mainClass": "Enhanceyield",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Forloop",
+            "request": "launch",
+            "mainClass": "Forloop",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch New",
+            "request": "launch",
+            "mainClass": "Operators.New",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch ar",
+            "request": "launch",
+            "mainClass": "Operators.ar",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch enhance2",
+            "request": "launch",
+            "mainClass": "Operators.enhance2",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch enhancedswitchex",
+            "request": "launch",
+            "mainClass": "Operators.enhancedswitchex",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifelseifex",
+            "request": "launch",
+            "mainClass": "Operators.ifelseifex",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch kk",
+            "request": "launch",
+            "mainClass": "Operators.kk",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch nestedifelse",
+            "request": "launch",
+            "mainClass": "Operators.nestedifelse",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch pp",
+            "request": "launch",
+            "mainClass": "Operators.pp",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch2",
+            "request": "launch",
+            "mainClass": "Operators.switch2",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchex",
+            "request": "launch",
+            "mainClass": "Operators.switchex",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "Saicharan.src.App",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Enhance1",
+            "request": "launch",
+            "mainClass": "Saicharan.src.Enhance1",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Adding",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Adding",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alpha",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Alpha",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evenodd",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Evenodd",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Invertedfile",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Invertedfile",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Invertedpyramid",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Invertedpyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largest",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Largest",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Multiplication",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Natural",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Natural",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Pyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap(1)",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Swap",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vowelconso",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Assignment1.java.Vowelconso",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial(1)",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Factorial",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qr(1)",
+            "request": "launch",
+            "mainClass": "Saicharan.src.assign.Qr",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch half",
+            "request": "launch",
+            "mainClass": "Saicharan.src.half",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch halffor",
+            "request": "launch",
+            "mainClass": "Saicharan.src.halffor",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch hh",
+            "request": "launch",
+            "mainClass": "Saicharan.src.hh",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted",
+            "request": "launch",
+            "mainClass": "Saicharan.src.inverted",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch invertednum",
+            "request": "launch",
+            "mainClass": "Saicharan.src.invertednum",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch doo",
+            "request": "launch",
+            "mainClass": "doo",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch dowhile",
+            "request": "launch",
+            "mainClass": "dowhile",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch infy",
+            "request": "launch",
+            "mainClass": "infy",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch infyu",
+            "request": "launch",
+            "mainClass": "infyu",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid",
+            "request": "launch",
+            "mainClass": "pyramid",
+            "projectName": "JavaPractices_fae81299"
+        },
+        {
+            "type": "java",
+            "name": "Launch rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "JavaPractices_fae81299"
+        }
+    ]
+}
